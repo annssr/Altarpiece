@@ -1,4 +1,4 @@
-# cs6476
+# Altarpiece
 CS 6476 Computer Vision Project
 
 ## Problem Statement
@@ -35,3 +35,6 @@ Given an image of a simulated 3D cube with an applied texture, determine its ori
 
 - Add different shapes, such as spheres, boxes, cones and cylinders, and have our algorithm identify which object it is and apply a different texture extraction process for each possible object type
 - Take multiple images of the same object from different orientations, and combine the different texture maps into a single texture map using image stitching techniques
+
+## Video Demonstration
+[Video](https://youtu.be/NAcbie5V8XM)
